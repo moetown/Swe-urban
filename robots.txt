@@ -1,0 +1,6 @@
+User-agent:
+Disallow: /images/
+Disallow: /projects.html
+Disallow: /about.html
+Disallow: /contact.html
+
