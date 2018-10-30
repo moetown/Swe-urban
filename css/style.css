@@ -711,7 +711,13 @@ footer .footer-copyright {
   }
 
 }
-
+@media (max-width: 450px)  {
+	#portfolio { 
+		padding-top: 0px;
+		margin-top: 0px;
+}
+	
+}
 
 
 
